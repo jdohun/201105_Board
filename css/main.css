@@ -1,0 +1,46 @@
+*{
+  margin:0; padding:0;
+}
+
+ul{
+  list-style: none;
+}
+
+ul li{
+  width:700px;
+  height:30px;
+  line-height: 30px;
+}
+
+ul li .id{
+  display: inline-block;
+  width:8%;
+  text-align: center;
+}
+
+ul li .title{
+
+  display: inline-block;
+  width:60%;
+  text-align: center;
+}
+
+ul li .user{
+
+  display: inline-block;
+  width:8%;
+  text-align: center;
+}
+
+ul li .date{
+
+  display: inline-block;
+  width:20%;
+  text-align: center;
+}
+ul li .view{
+
+  display: inline-block;
+  width:4%;
+  text-align: center;
+}
